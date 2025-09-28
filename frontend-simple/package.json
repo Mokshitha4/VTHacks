@@ -1,0 +1,13 @@
+{
+  "name": "finquest-simple",
+  "version": "1.0.0",
+  "description": "FinQuest Simple HTML Frontend",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build needed for static HTML'",
+    "start": "echo 'Static HTML served directly'"
+  },
+  "keywords": ["finance", "html", "static"],
+  "author": "FinQuest Team",
+  "license": "MIT"
+}
