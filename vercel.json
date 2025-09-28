@@ -19,9 +19,6 @@
       "dest": "/index.html"
     }
   ],
-  "env": {
-    "REACT_APP_API_URL": "@react_app_api_url"
-  },
   "buildCommand": "cd frontend && npm ci && npm run build",
   "outputDirectory": "frontend/build",
   "installCommand": "cd frontend && npm ci"
